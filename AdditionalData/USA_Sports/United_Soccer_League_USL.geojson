@@ -31,10 +31,10 @@
 { "type": "Feature", "properties": { "Name": "Sacramento Republic FC", "description": "Papa Murphy's Park, Sacramento, California" }, "geometry": { "type": "Point", "coordinates": [ -121.4380166, 38.5913701 ] } },
 { "type": "Feature", "properties": { "Name": "Saint Louis FC", "description": "Toyota Stadium, Fenton, Missouri" }, "geometry": { "type": "Point", "coordinates": [ -90.438667, 38.546557 ] } },
 { "type": "Feature", "properties": { "Name": "San Antonio FC", "description": "Toyota Field, San Antonio, Texas" }, "geometry": { "type": "Point", "coordinates": [ -98.3945569, 29.5393232 ] } },
-{ "type": "Feature", "properties": { "Name": "Seattle Sounders FC 2", "description": "Cheney Stadium, Tacoma, Washington" }, "geometry": { "type": "Point", "coordinates": [ -122.4976338, 47.2379592 ] } },
-{ "type": "Feature", "properties": { "Name": "Swope Park Rangers", "description": "Shawnee Mission District Stadium, Overland Park, Kansas" }, "geometry": { "type": "Point", "coordinates": [ -94.6720849, 39.0208512 ] } },
-{ "type": "Feature", "properties": { "Name": "Tampa Bay Rowdies", "description": "Al Lang Stadium, St. Petersburg, Florida" }, "geometry": { "type": "Point", "coordinates": [ -82.6329818, 27.7680117 ] } },
-{ "type": "Feature", "properties": { "Name": "Toronto FC II", "description": "Lamport Stadium, Toronto, Ontario" }, "geometry": { "type": "Point", "coordinates": [ -79.4232365, 43.6390248 ] } },
-{ "type": "Feature", "properties": { "Name": "Tulsa Roughnecks FC", "description": "ONEOK Field, Tulsa, Oklahoma" }, "geometry": { "type": "Point", "coordinates": [ -95.988905, 36.1605499 ] } }
+{ "type": "Feature", "properties": { "Name": "Seattle Sounders FC 2", "description": "Cheney Stadium, Tacoma, Washington" }, "geometry": { "type": "Circle", "coordinates": [ -122.4976338, 47.2379592 ] } },
+{ "type": "Feature", "properties": { "Name": "Swope Park Rangers", "description": "Shawnee Mission District Stadium, Overland Park, Kansas" }, "geometry": { "type": "Circle", "coordinates": [ -94.6720849, 39.0208512 ] } },
+{ "type": "Feature", "properties": { "Name": "Tampa Bay Rowdies", "description": "Al Lang Stadium, St. Petersburg, Florida" }, "geometry": { "type": "Circle", "coordinates": [ -82.6329818, 27.7680117 ] } },
+{ "type": "Feature", "properties": { "Name": "Toronto FC II", "description": "Lamport Stadium, Toronto, Ontario" }, "geometry": { "type": "Circle", "coordinates": [ -79.4232365, 43.6390248 ] } },
+{ "type": "Feature", "properties": { "Name": "Tulsa Roughnecks FC", "description": "ONEOK Field, Tulsa, Oklahoma" }, "geometry": { "type": "Circle", "coordinates": [ -95.988905, 36.1605499 ] } }
 ]
 }
